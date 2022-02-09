@@ -8,6 +8,8 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
+blah 
+
 ![Caption](/assets/img/group-logo.png)
 
 <!-- pages/projects.md -->
