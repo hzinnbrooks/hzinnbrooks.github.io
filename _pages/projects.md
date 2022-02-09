@@ -8,12 +8,6 @@ display_categories: [work]
 horizontal: false
 ---
 
-<div class="row">
-    <div class="col-sm mt-1 mt-md-0">
-        {% include figure.html path="assets/img/group-logo.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
 We study the interplay of dynamics and structure in social and biological systems through the development and analysis of mathematical models. We approach these problems using techniques from dynamical systems, network theory, differential equations, and stochastic processes.
 
 <!-- pages/projects.md -->

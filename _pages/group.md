@@ -14,8 +14,6 @@ horizontal: false
     </div>
 </div>
 
-We study the interplay of dynamics and structure in social and biological systems through the development and analysis of mathematical models. We approach these problems using techniques from dynamical systems, network theory, differential equations, and stochastic processes.
-
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
