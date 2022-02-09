@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pattern formation and stochastic processes in cell biology
-description: a project with a background image
+description: 
 img: assets/img/patterns.png
 importance: 2
 category: work
