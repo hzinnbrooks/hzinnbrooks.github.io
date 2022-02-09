@@ -2,7 +2,7 @@
 layout: page
 title: bounded-confidence models on graphs
 description: 
-img: assets/img/12.jpg
+img: assets/img/bc-models.png
 importance: 1
 category: work
 ---
