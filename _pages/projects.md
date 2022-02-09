@@ -10,7 +10,7 @@ horizontal: false
 
 blah 
 
-![Caption](/assets/img/group-logo.png)
+![image description what](/assets/img/group-logo.png)
 
 <!-- pages/projects.md -->
 <div class="projects">
