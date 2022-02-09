@@ -10,13 +10,11 @@ horizontal: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/group-logo.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 We study the interplay of dynamics and structure in social and biological systems through the development and analysis of mathematical models. We approach these problems using techniques from dynamical systems, network theory, differential equations, and stochastic processes.
-
-![Group Logo](/assets/img/group-logo.png)
 
 <!-- pages/projects.md -->
 <div class="projects">
