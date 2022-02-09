@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: Nonlinear and Complex Systems Research Group
-nav: true
+nav: false
 display_categories: [work]
 horizontal: false
 ---

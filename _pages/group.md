@@ -3,8 +3,8 @@ layout: page
 title: research group
 permalink: /group/
 description: Nonlinear and Complex Systems Research Group
-nav: true
-display_categories: [work]
+nav: false
+display_categories: [members]
 horizontal: false
 ---
 
