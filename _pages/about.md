@@ -17,9 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an applied mathematician working in complex and nonlinear systems. I study a variety of social and biological systems with mathematical models. My goal is to create and communicate mathematics in a way that is exciting, relevant, and inclusive.
+I am an applied mathematician working in complex and nonlinear systems. I study collective behavior in a variety of social and biological systems with mathematical models. My goal is to create and communicate mathematics in a way that is exciting, relevant, and inclusive.
 
-Here is my [CV](/hzinnbrooks.github.io/cv.pdf).
+Here is my [CV](https://github.com/hzinnbrooks/hzinnbrooks.github.io/blob/master/cv.pdf).
 
 
 Site is under construction; please check back later!
