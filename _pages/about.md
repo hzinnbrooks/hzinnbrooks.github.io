@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Harvey Mudd College</a>. Assistant Professor, Department of Mathematics.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile-pic.jpg
   address: >
     <p>555 your office number</p>
     <p>123 your address street</p>
