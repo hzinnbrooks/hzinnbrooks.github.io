@@ -4,7 +4,7 @@ title: Stochastic processes in cell biology
 description: another without an image
 img:
 importance: 3
-category: work
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.
