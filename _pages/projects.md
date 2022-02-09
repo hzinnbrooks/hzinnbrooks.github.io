@@ -4,11 +4,11 @@ title: projects
 permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
-display_categories: [work, fun]
+display_categories: [social systems, biological systems]
 horizontal: false
 ---
 
-blah 
+We study the interplay of dynamics and structure in social and biological systems through the development and analysis of mathematical models. We approach these problems using techniques from dynamical systems, network theory, differential equations, and stochastic processes.
 
 ![image description what](/assets/img/12.png)
 
