@@ -14,6 +14,8 @@ horizontal: false
     </div>
 </div>
 
+![My image Name](/assets/images/group-logo.png)
+
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
