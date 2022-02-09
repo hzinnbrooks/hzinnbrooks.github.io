@@ -8,6 +8,12 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/group-logo.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
