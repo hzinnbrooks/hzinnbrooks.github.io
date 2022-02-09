@@ -8,7 +8,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-![#](/assets/images/group-logo.png)
+![Caption](/assets/images/group-logo.png)
 
 <!-- pages/projects.md -->
 <div class="projects">
