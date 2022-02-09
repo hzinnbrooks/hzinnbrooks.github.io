@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Nonlinear and Complex Systems Research Group
 nav: true
 display_categories: [work]
 horizontal: false
@@ -10,7 +10,7 @@ horizontal: false
 
 We study the interplay of dynamics and structure in social and biological systems through the development and analysis of mathematical models. We approach these problems using techniques from dynamical systems, network theory, differential equations, and stochastic processes.
 
-![image description what](/assets/img/12.png)
+![Group Logo](/assets/img/group-logo.png)
 
 <!-- pages/projects.md -->
 <div class="projects">
