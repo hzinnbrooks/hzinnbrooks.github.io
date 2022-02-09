@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 
+date: 2022-03-15 
 inline: true
 ---
 
-Blah.
+Duke Applied Math Seminar.
