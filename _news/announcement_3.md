@@ -1,7 +1,8 @@
 ---
 layout: post
+title: Social Justice and Data Science Summer Research Program at ICERM
 date: June 2022
-inline: true
+inline: false
 ---
 
-Social Justice and Data Science Summer Research Program at ICERM
+<a href="https://icerm.brown.edu/programs/ep-22-dssj/"> Social Justice and Data Science Summer Research Program at ICERM</a>
