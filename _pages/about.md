@@ -6,7 +6,7 @@ subtitle: <a href='#'>Harvey Mudd College</a>. Assistant Professor, Department o
 
 profile:
   align: right
-  image: profile-pic.jpg
+  image: prof_pic.jpg
   address: >
     <p>555 your office number</p>
     <p>123 your address street</p>
