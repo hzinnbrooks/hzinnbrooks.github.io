@@ -1,0 +1,26 @@
+{
+  "index.qmd": {
+    "index.html": "948363d7"
+  },
+  "about.qmd": {
+    "about.html": "9a6d29a7"
+  },
+  "research.qmd": {
+    "research.html": "4e1b2ba5"
+  },
+  "teaching.qmd": {
+    "teaching.html": "a8165264"
+  },
+  "publications.qmd": {
+    "publications.html": "65fd75d2"
+  },
+  "analysis.qmd": {
+    "analysis.html": "2b2e4401"
+  },
+  "resources.qmd": {
+    "resources.html": "166f6587"
+  },
+  "gradschool.qmd": {
+    "gradschool.html": "fe15a969"
+  }
+}
