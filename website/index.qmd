@@ -1,0 +1,26 @@
+---
+title: "Heather Zinn Brooks"
+about:
+  template: jolla
+  image: prof_pic_2.jpg
+---
+
+**Assistant Professor of Mathematics <br> Barbara Stokes Dewey Assistant Professor in the Life Sciences <br> Harvey Mudd College**
+
+I am an applied mathematician working in complex and nonlinear systems. I study a variety of social and biological systems with mathematical models. My goal is to create and communicate mathematics in a way that is exciting, relevant, and inclusive.
+
+**Upcoming Meetings**
+
+SIAM Conference on Applied Dynamical Systems | Denver, Colorado USA
+May 2025
+
+BIRS Workshop on Collective Social Phenomena: Dynamics and Data | Casa Matemática Oaxaca, Mexico
+June 2025
+
+SLMath Summer Research in Mathematics | Berkeley, California USA
+July 2025
+
+SIAM/CAIMS Annual Meeting | Montreal, Canada
+July 2025
+
+

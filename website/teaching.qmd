@@ -1,0 +1,212 @@
+---
+title: "Teaching"
+sidebar:
+    style: "docked"
+    search: true
+    contents:
+        - analysis.qmd
+---
+
+I am currently teaching Mathematical Analysis (Math 131), Introduction to Mathematical Biology (Math 118A), and Math Forum (Math 198).
+
+## Courses at Harvey Mudd College
+
+### Mathematical Analysis
+
+*Offerings: Fall 2020, Fall 2022, Fall 2023, Spring 2024, Spring 2025*
+
+This course is a rigorous analysis of the real numbers, as well as an introduction to writing and communicating mathematics well.
+
+Goals for students:
+
+- Learn the content and techniques of analysis, so that you can creatively solve problems you have never seen before.
+- Learn to read and write rigorous proofs, so that you can convincingly defend your reasoning in the language of mathematics.
+- Learn good mathematical writing skills and style, so that you can communicate your ideas effectively.
+
+The links below are the student-facing notes for a semi-flipped class based on Rudin's Principles of Analysis Chapters 1-5. The full notes, in-class slides, and LaTeX files are available to instructors upon request — please contact me!
+
+[Mathematical Writing](https://drive.google.com/file/d/1VgVOwwIJzozdYD-w0HWxo--snf8IhsdE/view?usp=sharing)
+
+**Part 1: Sets, Topology, and Metric Spaces**
+
+- [Induction](https://drive.google.com/file/d/1rvbzpcdU9447S0-UnFFmHDXLItMlxeKT/view?usp=sharing)
+- [Countability](https://drive.google.com/file/d/13oNaStiBimvvUuWMojdE2qKLFEbNykBl/view?usp=sharing)
+- [Fields, Order, and Bounds](https://drive.google.com/file/d/1VjDwL_H39frRZj67KTWfpeI3hM11pqYC/view?usp=sharing)
+- [Metric Spaces](https://drive.google.com/file/d/1imN_gFUEYflTtkBNDFlKsBY5UKCmek60/view?usp=sharing)
+- [Open and Closed Sets](https://drive.google.com/file/d/1MI2ruKrLRip-GYMI4v0DxsheKTp13F7Z/view?usp=sharing)
+- [Closure and Dense Sets](https://drive.google.com/file/d/1DRyWxh45tocyIWG0bkcrziHEnZ0lQSE_/view?usp=sharing)
+- [Open Covers and Compact Sets](https://drive.google.com/file/d/1_-jqBPHRC4V8D-gNLG1cS-bBhoWO8DNL/view?usp=sharing)
+- [Compactness Theorems](https://drive.google.com/file/d/1A8k1B-tRkEsAiOP4r68XxOC3K82gGOiG/view?usp=sharing)
+- [Compact Sets and the Reals](https://drive.google.com/file/d/1diEAH-XlOrQJ8zbGcmosFC3ByG7ML9vc/view?usp=sharing)
+
+**Part 2: Sequences and Series**
+
+- [Sequences](https://drive.google.com/file/d/1kNswpA_WmSewUKOdsO9kJknbo0g2CZcf/view?usp=sharing)
+- [Subsequences and Cauchy Sequences](https://drive.google.com/file/d/17A9Fs9MG4Od7SxIFMikRmF6y4_IO-0tB/view?usp=sharing)
+- [Sequences and the Reals (Completeness)](https://drive.google.com/file/d/1S-35A5PikDdOFT6SlhueE_xXRqiXErsf/view?usp=sharing)
+- [Constructing the Reals](https://drive.google.com/file/d/1lEkDzrkSG-ngXzDSv8ptiaANw2hQxOmL/view?usp=sharing)
+- [Completion of Metric Spaces](https://drive.google.com/file/d/1l7E6clEcZvvX-Pho-KD8jDZYVCRuipDm/view?usp=sharing)
+- [Series](https://drive.google.com/file/d/14SK3jMbwwCNAmvIK9tStkTpOir6jwUrn/view?usp=sharing)
+- [Convergence Tests for Series](https://drive.google.com/file/d/1DB84b-3FSygxDHEqYqZUgMCNjwiJPmle/view?usp=sharing)
+- [Sums, Products, and Rearrangements of Series](https://drive.google.com/file/d/1bCRI-UnWlF02XyEo3U563-l5I_eKQO1k/view?usp=sharing)
+
+**Part 3: Functions**
+
+- [Limits and continuity of functions](https://drive.google.com/file/d/1nLYi1lEilEsa-SiFt_zbPGevb08hGwIy/view?usp=sharing)
+- [Continuity, Continued](https://drive.google.com/file/d/1pphS64FligB2z4beo2CCpo2ESyCd0lMg/view?usp=sharing)
+- [The Derivative](https://drive.google.com/file/d/1bM2XAicLQ3Ugy0Q-5nDYQIWuJ1fmGu2A/view?usp=sharing)
+- [Differentiability, Continuity, and Pointwise Convergence](https://drive.google.com/file/d/1SRWoSrQztI6tYZdxB7FQtcfn4xvT-xiJ/view?usp=sharing)
+- [Uniform Convergence](https://drive.google.com/file/d/1SRWoSrQztI6tYZdxB7FQtcfn4xvT-xiJ/view?usp=sharing)
+
+### Network Science: Mathematics, Models, and Computation
+
+*Offerings: Fall 2024*
+
+Network science is the study of connected systems using tools from mathematics, computer science, physics, and beyond. 
+
+Topics:
+
+- Network fundamentals, including mathematical representations of networks, types of networks, and network data visualization;
+- Measuring networks, including measurements of centrality, hierarchy and segregation in networks; 
+- Properties of real-world networks, including shortest paths, degree distributions, and assortativity;
+- Models of networks, including random graph models and configuration models;
+- Applications of networks, including clustering, community detection, and models of agents interacting on networks.
+
+Throughout the course, students write mathematical arguments, perform simulations, read contemporary research papers, and navigate existing software packages for network analysis. The course culminates in a group project where students apply the tools of network science to an application of their choosing.
+
+You can access the [full lecture notes here](https://network-science-notes.github.io/) (including Google Colaboratory links for coding exercises). This course was co-designed with [Dr. Phil Chodrow](https://www.philchodrow.prof/) at Middlebury College.
+
+### Partial Differential Equations
+
+*Offerings: Fall 2022, Fall 2024*
+
+Many systems involve the evolution of quantities in space and time. We can gain great insight into such systems with mathematical models using partial differential equations (PDEs).
+
+PDEs are an active area of research from both applied and theoretical perspectives.  We motivate our study by deriving equations based on models from physics, biology, and social systems, including:
+
+- traffic congestion
+- molecular diffusion
+- heat flow
+- population dynamics and ecology
+- patterns on animal skin and seashells
+
+In this course, we build on our foundation of multivariable calculus, differential equations, and analysis to find solutions to the resulting equations and understand their behavior and mathematical properties. We also briefly explore methods to numerically simulate a variety of PDEs on one-dimensional domains.
+
+Topics:
+
+- Flux and conservation laws
+- First-order PDEs, method of characteristics
+- Dirichlet and Neumann problems for linear second-order PDE (diffusion & heat equation, Laplace's equation, wave equation), separation of variables
+- Fourier series and convergence
+- Well-posedness
+- Maximum principles
+- Galerkin methods
+- D'Alembert's solution
+- Fourier transforms, the delta function, convolution, Green's functions
+- Cauchy problem for the heat equation
+- Reaction-diffusion equations
+
+### Dynamical Systems
+
+*Offerings: Spring 2024*
+
+Dynamical systems are systems that evolve over time. The presence of nonlinearities guide our approach toward qualitative rather than quantitative questions, with an emphasis on the underlying geometric behavior. In addition to being of interest in their own right, dynamical systems arise naturally as mathematical models from many disciplines including biology, chemistry, engineering, physics, and sociology. 
+
+This course is an introductory survey of characteristic behaviors of dynamical systems. Applications are an integral part of the course. Students engage with research in dynamical systems through an in-depth project.
+
+Topics: 
+
+- One- and two-dimensional flows
+- Fixed points and linearization
+- Stability and phase plane analysis
+- Oscillations, Kuramoto model
+- Homoclinic and heteroclinic orbits
+- Poincare--Bendixson theorem
+- Bifurcation theory
+- Strange attractors and chaos theory
+
+### Linear Algebra
+
+*Offerings: Spring 2021, Spring 2022, Spring 2023* 
+
+This course is an introduction to linear algebra, which is the study of linear spaces and linear transformations. Linearity is one of the unifying themes in mathematics. Many real-world applications can be modeled or approximated by linear functions of several variables. Linear algebra is in our [core curriculum at HMC](https://www.hmc.edu/academics/common-core-curriculum/). Students see connections to calculus as well as common themes that emerge in later study of differential equations.
+
+Topics in this course include: 
+
+- Vector spaces
+- Matrix algebra
+- Linear independence
+- Subspaces
+- Eigenvalues and eigenvectors
+- Similarity and diagonalization
+- Orthogonality
+- Linear transformations
+- Matrix decompositions and SVD 
+
+
+### Introduction to Mathematical Biology
+
+*Offerings: Spring 2025*
+
+This is a half-semester course focusing on mathematical models of biological systems, as well as analysis and solution methods. We explore mathematical and computational approaches in biology, and build ideas that students can expand on in Math/Bio 119 (Advanced Mathematical Biology) and possibly in future research projects. The goal of this course is to explore a variety of concepts and tools that will start students on the path to becoming a fearless mathematical modeler. Students will appreciate the diverse ways that mathematics and computation are used to address questions in biology and become prepared to construct and analyze their own models. This course is team-taught with a faculty member in the biology department.
+
+Topics:
+
+- Introduction to mathematical modeling
+- Malthusian and compensatory growth: Linear and nonlinear discrete dynamical systems 
+- Age-structured models: discrete-time matrix models
+- Continuous population models, bifurcations, and the Allee effect
+- Metapopulation models
+- 2-species interaction models, predator-prey dynamics
+- SIR models 
+- Computing in MATLAB, including parameter fitting
+
+### Mathematics of Democracy
+
+*Offerings: Fall 2021*
+
+In this course, students engage with current mathematical research to understand how mathematics illuminates, informs, and directly impacts the political system in the United States. This course has been designed to develop and strengthen  skills in the following areas:
+
+- Reading research papers in applied mathematics,
+- Critically analyzing the impacts of mathematical research on applications to the U.S. political system, and 
+- Understanding, explaining, and employing a variety of assumptions and mathematical techniques used in these applications.  
+
+Topics include:
+
+- Election forecasting
+- Voting theory
+- Apportionment
+- Redistricting 
+- Structure and parties in congress
+- Party formation and political polarization
+- Riots and social movements
+- Information spread
+
+Course materials are available to instructors upon request --- please contact me!
+
+### Math Forum
+
+*Offerings: Spring 2025*
+
+The goal of this course is to improve students' comfort with and ability to communicate mathematics, both to a general and technical audience. Students present material on assigned topics and have their presentations evaluated by students and faculty. This format simultaneously exposes students to a broad range of topics from modern and classical mathematics.
+
+Slides: [Mathematical Storytelling](https://drive.google.com/file/d/1aBL5QYCqyzpNemPJgQl3hQ2EXjXFp5Us/view?usp=sharing)
+
+## Other Courses
+
+**UCLA**
+
+- Math 168: Introduction to Networks (Spring 2020)
+- Math 142: Mathematical Modeling (Fall 2019)
+- Math 197: Reading Course in Nonlinear Dynamics (Spring 2019)
+- Math 134: Linear and Nonlinear Systems of Differential Equations (Fall 2018, Winter 2019)
+
+**University of Utah**
+
+- Math 3140: Vector Calculus and PDEs (Spring 2018)
+- Math 1210: Calculus I (Fall 2017)
+- Math 2270: Linear Algebra (Spring 2017)
+- Math 3150: PDEs for Engineers (Summer 2016, Fall 2016)
+- Math 1050: College Algebra (Summer 2013)
+- Math 1010: Intermediate Algebra (Spring 2013, Spring 2014)
+- Math 1030: Intro to Quantitative Reasoning (Fall 2012)

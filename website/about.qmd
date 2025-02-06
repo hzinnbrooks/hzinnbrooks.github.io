@@ -1,0 +1,13 @@
+---
+title: "About"
+---
+
+I earned my Ph.D. in Mathematics from the University of Utah in 2018, where I was advised by Paul Bressloff. Before joining the faculty at Harvey Mudd, I was a CAM postdoc in the Mathematics department at UCLA (under the mentorship of Mason Porter).
+
+I use a combination of analytical and computational techniques to study phenomena in social and biological applications. I pair tools from dynamical systems and differential equations (including linear and weakly nonlinear analysis, perturbation theory, adiabatic reduction, and symmetric bifurcation theory), network theory, and stochastic processes with numerical simulation and data-driven computational techniques (like agent-based models and dynamic mode decomposition). Read more about my projects [here](publications.qmd).
+
+I am passionate about the teaching and learning of mathematics. I am a Project NExT Fellow (Silver ’19 cohort) and I was a graduate fellow for the Center for Teaching and Learning Excellence at the University of Utah. I strive to create an inclusive environment where my students can engage meaningfully with challenging problems. My teaching portfolio is [here](teaching.qmd).
+
+As a first-generation college student and woman in mathematics, I strive to be an active advocate for historically underserved people in the math community. I am a proud member of AWM and the Spectra Ally List.
+
+I was born in Idaho and raised in Utah. I played classical flute for many years (I was originally a music major!). Outside of math and music, I love climbing, hiking, skiing, trivia, and coffee & tea.

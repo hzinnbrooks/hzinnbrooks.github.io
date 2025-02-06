@@ -1,0 +1,57 @@
+---
+title: "Research Group"
+---
+
+We study the interplay of dynamics and structure in social and biological systems through the development and analysis of mathematical models. We approach these problems using techniques from dynamical systems, network theory, differential equations, and stochastic processes.
+
+## Current Members 
+
+**Camilo Morales**, HMC `25 <br>
+*Measuring the similarity between trees of different order*
+
+**Theo Rode**, HMC `26 <br>
+*Inferring network structure of mathematical models of opinion dynamics*
+
+**Joshua Zhong**, HMC `26 
+
+## Alumni
+
+**Tian Dong** (HMC '24): [Exploring sigmoidal bounded-confidence models with mean-field methods](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1292&context=hmc_theses).
+
+**Kerria Pang-Naylor** (HMC '25): Generating opinion distributions from data using binary classification models.
+
+**Robert Bowden** (HMC '25): Opinion dynamics on hypergraphs using sheaf-based techniques.
+
+**Emme McMullen** (HMC '23): [Multilayer network model of gender bias and homophily in hierarchical structures](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1283&context=hmc_theses).
+
+**Julianna Schaklwyk** (HMC '23) and **Hector Tierno** (HMC '23): Quantile Deffuant–Weisbuch model of opinion dynamics (co-mentor Jamie Haddock)
+
+**Andy Liu** (HMC '23): Heterogeneous topic interdependencies in opinion dynamics.
+
+**Ian de Marcellus** (HMC '23): Numerical simulations of mean-field Hegselmann–Krause models
+
+**Jasper Bown** (HMC '24): Strategies for inferring bounded-confidence model parameters 
+
+**Solomon Valore-Caplan** (HMC ’22): [Smoothed bounded-confidence opinion dynamics on the complete graph](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1267&context=hmc_theses)
+
+**Phousawanh Peaungvongpakdy** (HMC ’22): [An adaptive Hegselmann–Krause model of opinion dynamics](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1265&context=hmc_theses)
+
+**Christina Catlett** (Scripps ’22): Multilayer network models of pluralistic ignorance
+
+**Georgia Pope** (HMC ’21): Stability analysis of a mathematical model of hormonal contraception
+
+**Siqiao Mu** (Caltech): Epidemic dynamics on networks (co-mentors Mason Porter and Franca Hoffmann)
+
+**Sujai Hiremath** (Caltech): Opinion dynamics and media influence on networks (co-mentor Mason Porter and Franca Hoffmann)
+
+**Gabrielle Lorenzi** (UCLA): Modeling gender bias and homophily in professional networks (co-mentor Mason Porter)
+
+**Alex Pan** (Caltech): Opinion formation on networks (co-mentors Mason Porter and Franca Hoffmann)
+
+**Zehan Chao** (UCLA), **Zheyuan Cui** (UCLA), **Avery Edson** (UCLA), **Yihuan Huang** (UCLA), **Cesar Guajardo** (SMC), **Xingjia Wang**(UCLA), **Zhanyuan Yin** (UCLA): Evaluating effectiveness of the Gang Reduction and Youth Development program with dynamic mode decomposition
+
+**Marie Tuft** (University of Utah): Quantitative analysis of virus trafficking in a biological cell (co-mentor Sean Lawley)
+
+**Oliver Richardson** (University of Utah): Modeling learning on neural networks (co-mentor Sean Lawley)
+
+**Braden Schaer** and **Anand Singh** (University of Utah): Modeling diffusion of neurotransmitters. (co-mentor Sean Lawley)

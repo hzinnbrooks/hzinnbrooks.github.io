@@ -1,0 +1,71 @@
+---
+title: "Publications"
+---
+
+
+## Preprints
+
+1. **Brooks, H.Z.** [A tutorial on networks in social systems: A mathematical modeling perspective](https://arxiv.org/pdf/2302.00801). arXiv preprint arXiv:2302.00801.
+
+## Journal Articles
+
+1. Topaz, C. M., **Brooks, H. Z.**, Kan, U., Sandstede, B., & Smith, C. M. (2025). [Diversity, identity, and data](https://www.tandfonline.com/doi/full/10.1080/00029890.2024.2409608).
+The American Mathematical Monthly 132 (1), 36-47.
+
+2. **Brooks, H.Z.**, & Porter, M.A. (2025). [An “opinion reproduction number” for infodemics in a bounded-confidence content-spreading process on networks](https://pubs.aip.org/aip/cha/article/35/1/013160/3333167).
+Chaos: An Interdisciplinary Journal of Nonlinear Science 35 (1).
+
+3. **Brooks, H. Z.**, Chodrow, P. S., & Porter, M. (2024). [Emergence of polarization in a sigmoidal bounded-confidence model of opinion dynamics](https://epubs.siam.org/doi/pdf/10.1137/22M1527258). 
+SIAM Journal on Applied Dynamical Systems 23 (2), 1442-1470.
+
+4. Hickok, A., Kureh, Y., **Brooks, H. Z.**, Feng, M., & Porter, M. A. (2022). [A bounded-confidence model of
+opinion dynamics on hypergraphs](https://epubs.siam.org/doi/pdf/10.1137/21M1399427). SIAM Journal on Applied Dynamical Systems, 21(1), 1–32.
+
+5. **Brooks, H. Z.**, & Porter, M. A. (2020). [A model for the influence of media on the ideology of content in
+online social networks](https://link.aps.org/pdf/10.1103/PhysRevResearch.2.023041). Physical Review Research, 2(2), 023041.
+
+6. Carroll, S. R., **Brooks, H. Z.**, & Bressloﬀ, P. C. (2020). [Bifurcation analysis of pattern formation in a
+two-dimensional hybrid reaction–transport model](https://www.sciencedirect.com/science/article/am/pii/S0167278919300685). Physica D: Nonlinear Phenomena, 402, 132274.
+
+5. Wilson, S. N., Sindi, S. S., **Brooks, H. Z.**, Hohn, M. E., Price, C. R., Radunskaya, A. E., . . .
+Feﬀerman, N. H. (2020). [How emergent social patterns in allogrooming combat parasitic infections](https://www.frontiersin.org/articles/10.3389/fevo.2020.00054/full).
+Frontiers in Ecology and Evolution, 8, 54.
+
+4. **Brooks, H. Z.**, & Bressloﬀ, P. C. (2017). [Turing mechanism for homeostatic control of synaptic density
+during C. elegans growth](https://link.aps.org/pdf/10.1103/PhysRevE.96.012413). Physical Review E, 96(1), 012413.
+
+3. **Brooks, H. Z.**, & Bressloﬀ, P. C. (2016). [A mechanism for Turing pattern formation with active and
+passive transport](https://epubs.siam.org/doi/pdf/10.1137/16M1061205). SIAM Journal on Applied Dynamical Systems, 15(4), 1823–1843.
+
+2. **Brooks, H. Z.**, & Bressloﬀ, P. C. (2015). [Quasicycles in the stochastic hybrid Morris–Lecar neural model](https://link.aps.org/pdf/10.1103/PhysRevE.92.012704).
+Physical Review E, 92(1), 012704.
+
+1. Lawley, S. D., Tuft, M., & **Brooks, H. Z.** (2015). [Coarse-graining intermittent intracellular transport:
+Two-and three-dimensional models](https://link.aps.org/pdf/10.1103/PhysRevE.92.042709). Physical Review E, 92(4), 042709.
+
+## Books and Chapters
+
+1. Zhao, L., Kim, R., Oremland, L. S., Chowkwale, M., de Pillis, L. G., & **Brooks, H. Z.** (2024). [A survey of
+mathematical modeling of hormonal contraception and the menstrual cycle](https://library.oapen.org/bitstream/handle/20.500.12657/92672/1/978-3-031-58516-6.pdf#page=55). 
+Mathematical Modeling for Women’s Health: Collaborative Workshop for Women in Mathematical Biology, 51-82. Cham: Springer Nature Switzerland.
+
+2. Brooks, H. Z., Hohn, M. E., Price, C. R., Radunskaya, A. E., Sindi, S. S., Williams, N. D., . . .
+Feﬀerman, N. H. (2018). [Mathematical analysis of the impact of social structure on ectoparasite load in
+allogrooming populations](https://link.springer.com/chapter/10.1007/978-3-319-98083-6_3). In Understanding complex biological systems with mathematics (pp. 47–61).
+Springer.
+
+1. Williams, N. D., Brooks, H. Z., Hohn, M. E., Price, C. R., Radunskaya, A. E., Sindi, S. S., . . .
+Feﬀerman, N. H. (2018). [How disease risks can impact the evolution of social behaviors and emergent
+population organization](https://link.springer.com/chapter/10.1007/978-3-319-98083-6_2). In Understanding complex biological systems with mathematics (pp. 31–46).
+Springer.
+
+## Expository Articles & Outreach
+
+1. Jones, Q., Meléndez, A. R. V., Mendible, A., Aminian, M., Brooks, H. Z., Alexander, N., . . . Chodrow, P.
+(2023). [Data science and social justice in the mathematics community](https://arxiv.org/pdf/2303.09282). Notices of the American Mathematical Society, 70(9), 1479-1489.
+
+2. **Brooks, H. Z.**, Chen, Y., Feng, M., Kureh, Y. H., Porter, M. A., & Volkening, A. (2020). How to move a
+SIAM minisymposium online from the comfort of your home. DSWeb: The Dynamical Systems Web.
+
+1. **Brooks, H. Z.**, Kanjanasaratool, U., Kureh, Y. H., & Porter, M. A. (2020). [Disease detectives: Using
+mathematics to forecast the spread of infectious diseases](https://www.frontiersin.org/articles/10.3389/frym.2020.577741/pdf). Frontiers for Young Minds, Vol. 8: 577741.
