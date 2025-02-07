@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Here"
+  },
+  {
+    "objectID": "analysis.html",
+    "href": "analysis.html",
+    "title": "Math 131: Mathematical Analysis",
+    "section": "",
+    "text": "Info"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Brooks, H.Z. A tutorial on networks in social systems: A mathematical modeling perspective. arXiv preprint arXiv:2302.00801."
+  },
+  {
+    "objectID": "publications.html#preprints",
+    "href": "publications.html#preprints",
+    "title": "Publications",
+    "section": "",
+    "text": "Brooks, H.Z. A tutorial on networks in social systems: A mathematical modeling perspective. arXiv preprint arXiv:2302.00801."
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "Journal Articles",
+    "text": "Journal Articles\n\nTopaz, C. M., Brooks, H. Z., Kan, U., Sandstede, B., & Smith, C. M. (2025). Diversity, identity, and data. The American Mathematical Monthly 132 (1), 36-47.\nBrooks, H.Z., & Porter, M.A. (2025). An “opinion reproduction number” for infodemics in a bounded-confidence content-spreading process on networks. Chaos: An Interdisciplinary Journal of Nonlinear Science 35 (1).\nBrooks, H. Z., Chodrow, P. S., & Porter, M. (2024). Emergence of polarization in a sigmoidal bounded-confidence model of opinion dynamics. SIAM Journal on Applied Dynamical Systems 23 (2), 1442-1470.\nHickok, A., Kureh, Y., Brooks, H. Z., Feng, M., & Porter, M. A. (2022). A bounded-confidence model of opinion dynamics on hypergraphs. SIAM Journal on Applied Dynamical Systems, 21(1), 1–32.\nBrooks, H. Z., & Porter, M. A. (2020). A model for the influence of media on the ideology of content in online social networks. Physical Review Research, 2(2), 023041.\nCarroll, S. R., Brooks, H. Z., & Bressloﬀ, P. C. (2020). Bifurcation analysis of pattern formation in a two-dimensional hybrid reaction–transport model. Physica D: Nonlinear Phenomena, 402, 132274.\nWilson, S. N., Sindi, S. S., Brooks, H. Z., Hohn, M. E., Price, C. R., Radunskaya, A. E., . . . Feﬀerman, N. H. (2020). How emergent social patterns in allogrooming combat parasitic infections. Frontiers in Ecology and Evolution, 8, 54.\nBrooks, H. Z., & Bressloﬀ, P. C. (2017). Turing mechanism for homeostatic control of synaptic density during C. elegans growth. Physical Review E, 96(1), 012413.\nBrooks, H. Z., & Bressloﬀ, P. C. (2016). A mechanism for Turing pattern formation with active and passive transport. SIAM Journal on Applied Dynamical Systems, 15(4), 1823–1843.\nBrooks, H. Z., & Bressloﬀ, P. C. (2015). Quasicycles in the stochastic hybrid Morris–Lecar neural model. Physical Review E, 92(1), 012704.\nLawley, S. D., Tuft, M., & Brooks, H. Z. (2015). Coarse-graining intermittent intracellular transport: Two-and three-dimensional models. Physical Review E, 92(4), 042709."
+  },
+  {
+    "objectID": "publications.html#books-and-chapters",
+    "href": "publications.html#books-and-chapters",
+    "title": "Publications",
+    "section": "Books and Chapters",
+    "text": "Books and Chapters\n\nZhao, L., Kim, R., Oremland, L. S., Chowkwale, M., de Pillis, L. G., & Brooks, H. Z. (2024). A survey of mathematical modeling of hormonal contraception and the menstrual cycle. Mathematical Modeling for Women’s Health: Collaborative Workshop for Women in Mathematical Biology, 51-82. Cham: Springer Nature Switzerland.\nBrooks, H. Z., Hohn, M. E., Price, C. R., Radunskaya, A. E., Sindi, S. S., Williams, N. D., . . . Feﬀerman, N. H. (2018). Mathematical analysis of the impact of social structure on ectoparasite load in allogrooming populations. In Understanding complex biological systems with mathematics (pp. 47–61). Springer.\nWilliams, N. D., Brooks, H. Z., Hohn, M. E., Price, C. R., Radunskaya, A. E., Sindi, S. S., . . . Feﬀerman, N. H. (2018). How disease risks can impact the evolution of social behaviors and emergent population organization. In Understanding complex biological systems with mathematics (pp. 31–46). Springer."
+  },
+  {
+    "objectID": "publications.html#expository-articles-outreach",
+    "href": "publications.html#expository-articles-outreach",
+    "title": "Publications",
+    "section": "Expository Articles & Outreach",
+    "text": "Expository Articles & Outreach\n\nJones, Q., Meléndez, A. R. V., Mendible, A., Aminian, M., Brooks, H. Z., Alexander, N., . . . Chodrow, P. (2023). Data science and social justice in the mathematics community. Notices of the American Mathematical Society, 70(9), 1479-1489.\nBrooks, H. Z., Chen, Y., Feng, M., Kureh, Y. H., Porter, M. A., & Volkening, A. (2020). How to move a SIAM minisymposium online from the comfort of your home. DSWeb: The Dynamical Systems Web.\nBrooks, H. Z., Kanjanasaratool, U., Kureh, Y. H., & Porter, M. A. (2020). Disease detectives: Using mathematics to forecast the spread of infectious diseases. Frontiers for Young Minds, Vol. 8: 577741."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research Group",
+    "section": "",
+    "text": "We study the interplay of dynamics and structure in social and biological systems through the development and analysis of mathematical models. We approach these problems using techniques from dynamical systems, network theory, differential equations, and stochastic processes."
+  },
+  {
+    "objectID": "research.html#current-members",
+    "href": "research.html#current-members",
+    "title": "Research Group",
+    "section": "Current Members",
+    "text": "Current Members\nCamilo Morales, HMC `25  Measuring the similarity between trees of different order\nTheo Rode, HMC `26  Inferring network structure of mathematical models of opinion dynamics\nJoshua Zhong, HMC `26"
+  },
+  {
+    "objectID": "research.html#alumni",
+    "href": "research.html#alumni",
+    "title": "Research Group",
+    "section": "Alumni",
+    "text": "Alumni\nTian Dong (HMC ’24): Exploring sigmoidal bounded-confidence models with mean-field methods.\nKerria Pang-Naylor (HMC ’25): Generating opinion distributions from data using binary classification models.\nRobert Bowden (HMC ’25): Opinion dynamics on hypergraphs using sheaf-based techniques.\nEmme McMullen (HMC ’23): Multilayer network model of gender bias and homophily in hierarchical structures.\nJulianna Schaklwyk (HMC ’23) and Hector Tierno (HMC ’23): Quantile Deffuant–Weisbuch model of opinion dynamics (co-mentor Jamie Haddock)\nAndy Liu (HMC ’23): Heterogeneous topic interdependencies in opinion dynamics.\nIan de Marcellus (HMC ’23): Numerical simulations of mean-field Hegselmann–Krause models\nJasper Bown (HMC ’24): Strategies for inferring bounded-confidence model parameters\nSolomon Valore-Caplan (HMC ’22): Smoothed bounded-confidence opinion dynamics on the complete graph\nPhousawanh Peaungvongpakdy (HMC ’22): An adaptive Hegselmann–Krause model of opinion dynamics\nChristina Catlett (Scripps ’22): Multilayer network models of pluralistic ignorance\nGeorgia Pope (HMC ’21): Stability analysis of a mathematical model of hormonal contraception\nSiqiao Mu (Caltech): Epidemic dynamics on networks (co-mentors Mason Porter and Franca Hoffmann)\nSujai Hiremath (Caltech): Opinion dynamics and media influence on networks (co-mentor Mason Porter and Franca Hoffmann)\nGabrielle Lorenzi (UCLA): Modeling gender bias and homophily in professional networks (co-mentor Mason Porter)\nAlex Pan (Caltech): Opinion formation on networks (co-mentors Mason Porter and Franca Hoffmann)\nZehan Chao (UCLA), Zheyuan Cui (UCLA), Avery Edson (UCLA), Yihuan Huang (UCLA), Cesar Guajardo (SMC), Xingjia Wang(UCLA), Zhanyuan Yin (UCLA): Evaluating effectiveness of the Gang Reduction and Youth Development program with dynamic mode decomposition\nMarie Tuft (University of Utah): Quantitative analysis of virus trafficking in a biological cell (co-mentor Sean Lawley)\nOliver Richardson (University of Utah): Modeling learning on neural networks (co-mentor Sean Lawley)\nBraden Schaer and Anand Singh (University of Utah): Modeling diffusion of neurotransmitters. (co-mentor Sean Lawley)"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I am currently teaching Mathematical Analysis (Math 131), Introduction to Mathematical Biology (Math 118A), and Math Forum (Math 198)."
+  },
+  {
+    "objectID": "teaching.html#courses-at-harvey-mudd-college",
+    "href": "teaching.html#courses-at-harvey-mudd-college",
+    "title": "Teaching",
+    "section": "Courses at Harvey Mudd College",
+    "text": "Courses at Harvey Mudd College\n\nMathematical Analysis\nOfferings: Fall 2020, Fall 2022, Fall 2023, Spring 2024, Spring 2025\nThis course is a rigorous analysis of the real numbers, as well as an introduction to writing and communicating mathematics well.\nGoals for students:\n\nLearn the content and techniques of analysis, so that you can creatively solve problems you have never seen before.\nLearn to read and write rigorous proofs, so that you can convincingly defend your reasoning in the language of mathematics.\nLearn good mathematical writing skills and style, so that you can communicate your ideas effectively.\n\nThe links below are the student-facing notes for a semi-flipped class based on Rudin’s Principles of Analysis Chapters 1-5. The full notes, in-class slides, and LaTeX files are available to instructors upon request — please contact me!\nMathematical Writing\nPart 1: Sets, Topology, and Metric Spaces\n\nInduction\nCountability\nFields, Order, and Bounds\nMetric Spaces\nOpen and Closed Sets\nClosure and Dense Sets\nOpen Covers and Compact Sets\nCompactness Theorems\nCompact Sets and the Reals\n\nPart 2: Sequences and Series\n\nSequences\nSubsequences and Cauchy Sequences\nSequences and the Reals (Completeness)\nConstructing the Reals\nCompletion of Metric Spaces\nSeries\nConvergence Tests for Series\nSums, Products, and Rearrangements of Series\n\nPart 3: Functions\n\nLimits and continuity of functions\nContinuity, Continued\nThe Derivative\nDifferentiability, Continuity, and Pointwise Convergence\nUniform Convergence\n\n\n\nNetwork Science: Mathematics, Models, and Computation\nOfferings: Fall 2024\nNetwork science is the study of connected systems using tools from mathematics, computer science, physics, and beyond.\nTopics:\n\nNetwork fundamentals, including mathematical representations of networks, types of networks, and network data visualization;\nMeasuring networks, including measurements of centrality, hierarchy and segregation in networks;\nProperties of real-world networks, including shortest paths, degree distributions, and assortativity;\nModels of networks, including random graph models and configuration models;\nApplications of networks, including clustering, community detection, and models of agents interacting on networks.\n\nThroughout the course, students write mathematical arguments, perform simulations, read contemporary research papers, and navigate existing software packages for network analysis. The course culminates in a group project where students apply the tools of network science to an application of their choosing.\nYou can access the full lecture notes here (including Google Colaboratory links for coding exercises). This course was co-designed with Dr. Phil Chodrow at Middlebury College.\n\n\nPartial Differential Equations\nOfferings: Fall 2022, Fall 2024\nMany systems involve the evolution of quantities in space and time. We can gain great insight into such systems with mathematical models using partial differential equations (PDEs).\nPDEs are an active area of research from both applied and theoretical perspectives. We motivate our study by deriving equations based on models from physics, biology, and social systems, including:\n\ntraffic congestion\nmolecular diffusion\nheat flow\npopulation dynamics and ecology\npatterns on animal skin and seashells\n\nIn this course, we build on our foundation of multivariable calculus, differential equations, and analysis to find solutions to the resulting equations and understand their behavior and mathematical properties. We also briefly explore methods to numerically simulate a variety of PDEs on one-dimensional domains.\nTopics:\n\nFlux and conservation laws\nFirst-order PDEs, method of characteristics\nDirichlet and Neumann problems for linear second-order PDE (diffusion & heat equation, Laplace’s equation, wave equation), separation of variables\nFourier series and convergence\nWell-posedness\nMaximum principles\nGalerkin methods\nD’Alembert’s solution\nFourier transforms, the delta function, convolution, Green’s functions\nCauchy problem for the heat equation\nReaction-diffusion equations\n\n\n\nDynamical Systems\nOfferings: Spring 2024\nDynamical systems are systems that evolve over time. The presence of nonlinearities guide our approach toward qualitative rather than quantitative questions, with an emphasis on the underlying geometric behavior. In addition to being of interest in their own right, dynamical systems arise naturally as mathematical models from many disciplines including biology, chemistry, engineering, physics, and sociology.\nThis course is an introductory survey of characteristic behaviors of dynamical systems. Applications are an integral part of the course. Students engage with research in dynamical systems through an in-depth project.\nTopics:\n\nOne- and two-dimensional flows\nFixed points and linearization\nStability and phase plane analysis\nOscillations, Kuramoto model\nHomoclinic and heteroclinic orbits\nPoincare–Bendixson theorem\nBifurcation theory\nStrange attractors and chaos theory\n\n\n\nLinear Algebra\nOfferings: Spring 2021, Spring 2022, Spring 2023\nThis course is an introduction to linear algebra, which is the study of linear spaces and linear transformations. Linearity is one of the unifying themes in mathematics. Many real-world applications can be modeled or approximated by linear functions of several variables. Linear algebra is in our core curriculum at HMC. Students see connections to calculus as well as common themes that emerge in later study of differential equations.\nTopics in this course include:\n\nVector spaces\nMatrix algebra\nLinear independence\nSubspaces\nEigenvalues and eigenvectors\nSimilarity and diagonalization\nOrthogonality\nLinear transformations\nMatrix decompositions and SVD\n\n\n\nIntroduction to Mathematical Biology\nOfferings: Spring 2025\nThis is a half-semester course focusing on mathematical models of biological systems, as well as analysis and solution methods. We explore mathematical and computational approaches in biology, and build ideas that students can expand on in Math/Bio 119 (Advanced Mathematical Biology) and possibly in future research projects. The goal of this course is to explore a variety of concepts and tools that will start students on the path to becoming a fearless mathematical modeler. Students will appreciate the diverse ways that mathematics and computation are used to address questions in biology and become prepared to construct and analyze their own models. This course is team-taught with a faculty member in the biology department.\nTopics:\n\nIntroduction to mathematical modeling\nMalthusian and compensatory growth: Linear and nonlinear discrete dynamical systems\nAge-structured models: discrete-time matrix models\nContinuous population models, bifurcations, and the Allee effect\nMetapopulation models\n2-species interaction models, predator-prey dynamics\nSIR models\nComputing in MATLAB, including parameter fitting\n\n\n\nMathematics of Democracy\nOfferings: Fall 2021\nIn this course, students engage with current mathematical research to understand how mathematics illuminates, informs, and directly impacts the political system in the United States. This course has been designed to develop and strengthen skills in the following areas:\n\nReading research papers in applied mathematics,\nCritically analyzing the impacts of mathematical research on applications to the U.S. political system, and\nUnderstanding, explaining, and employing a variety of assumptions and mathematical techniques used in these applications.\n\nTopics include:\n\nElection forecasting\nVoting theory\nApportionment\nRedistricting\nStructure and parties in congress\nParty formation and political polarization\nRiots and social movements\nInformation spread\n\nCourse materials are available to instructors upon request — please contact me!\n\n\nMath Forum\nOfferings: Spring 2025\nThe goal of this course is to improve students’ comfort with and ability to communicate mathematics, both to a general and technical audience. Students present material on assigned topics and have their presentations evaluated by students and faculty. This format simultaneously exposes students to a broad range of topics from modern and classical mathematics.\nSlides: Mathematical Storytelling"
+  },
+  {
+    "objectID": "teaching.html#other-courses",
+    "href": "teaching.html#other-courses",
+    "title": "Teaching",
+    "section": "Other Courses",
+    "text": "Other Courses\nUCLA\n\nMath 168: Introduction to Networks (Spring 2020)\nMath 142: Mathematical Modeling (Fall 2019)\nMath 197: Reading Course in Nonlinear Dynamics (Spring 2019)\nMath 134: Linear and Nonlinear Systems of Differential Equations (Fall 2018, Winter 2019)\n\nUniversity of Utah\n\nMath 3140: Vector Calculus and PDEs (Spring 2018)\nMath 1210: Calculus I (Fall 2017)\nMath 2270: Linear Algebra (Spring 2017)\nMath 3150: PDEs for Engineers (Summer 2016, Fall 2016)\nMath 1050: College Algebra (Summer 2013)\nMath 1010: Intermediate Algebra (Spring 2013, Spring 2014)\nMath 1030: Intro to Quantitative Reasoning (Fall 2012)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Heather Zinn Brooks",
+    "section": "",
+    "text": "Assistant Professor of Mathematics  Barbara Stokes Dewey Assistant Professor in the Life Sciences  Harvey Mudd College\nI am an applied mathematician working in complex and nonlinear systems. I study a variety of social and biological systems with mathematical models. My goal is to create and communicate mathematics in a way that is exciting, relevant, and inclusive.\nUpcoming Meetings\nSIAM Conference on Applied Dynamical Systems | Denver, Colorado USA May 2025\nBIRS Workshop on Collective Social Phenomena: Dynamics and Data | Casa Matemática Oaxaca, Mexico June 2025\nSLMath Summer Research in Mathematics | Berkeley, California USA July 2025\nSIAM/CAIMS Annual Meeting | Montreal, Canada July 2025"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I earned my Ph.D. in Mathematics from the University of Utah in 2018, where I was advised by Paul Bressloff. Before joining the faculty at Harvey Mudd, I was a CAM postdoc in the Mathematics department at UCLA (under the mentorship of Mason Porter).\nI use a combination of analytical and computational techniques to study phenomena in social and biological applications. I pair tools from dynamical systems and differential equations (including linear and weakly nonlinear analysis, perturbation theory, adiabatic reduction, and symmetric bifurcation theory), network theory, and stochastic processes with numerical simulation and data-driven computational techniques (like agent-based models and dynamic mode decomposition). Read more about my projects here.\nI am passionate about the teaching and learning of mathematics. I am a Project NExT Fellow (Silver ’19 cohort) and I was a graduate fellow for the Center for Teaching and Learning Excellence at the University of Utah. I strive to create an inclusive environment where my students can engage meaningfully with challenging problems. My teaching portfolio is here.\nAs a first-generation college student and woman in mathematics, I strive to be an active advocate for historically underserved people in the math community. I am a proud member of AWM and the Spectra Ally List.\nI was born in Idaho and raised in Utah. I played classical flute for many years (I was originally a music major!). Outside of math and music, I love climbing, hiking, skiing, trivia, and coffee & tea."
+  }
+]
