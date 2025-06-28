@@ -6,15 +6,16 @@ We study the interplay of dynamics and structure in social and biological system
 
 ## Current Members 
 
-**Camilo Morales**, HMC `25 <br>
-*Measuring the similarity between trees of different order*
-
 **Theo Rode**, HMC `26 <br>
 *Inferring network structure of mathematical models of opinion dynamics*
+
+**Maddie Reeve**, HMC '26
 
 **Joshua Zhong**, HMC `26 
 
 ## Alumni
+
+**Camilo Morales** (HMC `25): [Measuring the similarity between trees of different order](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1296&context=hmc_theses).
 
 **Tian Dong** (HMC '24): [Exploring sigmoidal bounded-confidence models with mean-field methods](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1292&context=hmc_theses).
 

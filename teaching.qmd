@@ -7,7 +7,7 @@ sidebar:
         - analysis.qmd
 ---
 
-I am currently teaching Mathematical Analysis (Math 131), Introduction to Mathematical Biology (Math 118A), and Math Forum (Math 198).
+In Fall 2025 I am teaching Mathematical Analysis II (Math 132) and Ordinary Differential Equations (Math 82). I am also the Math Thesis Coordinator for the 2025--2026 academic year.
 
 ## Courses at Harvey Mudd College
 
@@ -76,6 +76,46 @@ Throughout the course, students write mathematical arguments, perform simulation
 
 You can access the [full lecture notes here](https://network-science-notes.github.io/) (including Google Colaboratory links for coding exercises). This course was co-designed with [Dr. Phil Chodrow](https://www.philchodrow.prof/) at Middlebury College.
 
+### Linear Algebra
+
+*Offerings: Spring 2021, Spring 2022, Spring 2023* 
+
+This course is an introduction to linear algebra, which is the study of linear spaces and linear transformations. Linearity is one of the unifying themes in mathematics. Many real-world applications can be modeled or approximated by linear functions of several variables. Linear algebra is in our [core curriculum at HMC](https://www.hmc.edu/academics/common-core-curriculum/). Students see connections to calculus as well as common themes that emerge in later study of differential equations.
+
+Topics in this course include: 
+
+- Vector spaces
+- Matrix algebra
+- Linear independence
+- Subspaces
+- Eigenvalues and eigenvectors
+- Similarity and diagonalization
+- Orthogonality
+- Linear transformations
+- Matrix decompositions and SVD 
+
+### Ordinary Differential Equations
+
+*Offerings: Fall 2025*
+
+ODEs can be used to describe dynamic phenomena in the world around us. In this course, we model physical systems using ODEs by identifying assumptions and deriving ODEs from physical laws. We introduce techniques to analyze and solve these equations along with theoretical foundations for the subject. We study ODEs from a variety of mathematical perspectives (e.g., geometric, analytic, state space vs time series).
+
+Topics:
+
+- Mathematical modeling
+- Linear and nonlinear first-order ordinary differential equations
+- Existence and uniqueness of solutions
+- Initial value problems
+- Vector fields
+- Separable differential equations
+- Variation of parameters and undetermined coefficients
+- Numerical solution techniques
+- Second-order and higher-order differential equations
+- Power series methods
+- Equilibrium points and their stability
+- Fundamental matrices and the matrix exponential
+- Bifurcations
+
 ### Partial Differential Equations
 
 *Offerings: Fall 2022, Fall 2024*
@@ -124,25 +164,6 @@ Topics:
 - Poincare--Bendixson theorem
 - Bifurcation theory
 - Strange attractors and chaos theory
-
-### Linear Algebra
-
-*Offerings: Spring 2021, Spring 2022, Spring 2023* 
-
-This course is an introduction to linear algebra, which is the study of linear spaces and linear transformations. Linearity is one of the unifying themes in mathematics. Many real-world applications can be modeled or approximated by linear functions of several variables. Linear algebra is in our [core curriculum at HMC](https://www.hmc.edu/academics/common-core-curriculum/). Students see connections to calculus as well as common themes that emerge in later study of differential equations.
-
-Topics in this course include: 
-
-- Vector spaces
-- Matrix algebra
-- Linear independence
-- Subspaces
-- Eigenvalues and eigenvectors
-- Similarity and diagonalization
-- Orthogonality
-- Linear transformations
-- Matrix decompositions and SVD 
-
 
 ### Introduction to Mathematical Biology
 

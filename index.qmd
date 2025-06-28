@@ -5,9 +5,11 @@ about:
   image: prof_pic_2.jpg
 ---
 
-**Assistant Professor of Mathematics <br> Barbara Stokes Dewey Assistant Professor in the Life Sciences <br> Harvey Mudd College**
+**Assistant Professor of Mathematics <br> Barbara Stokes Dewey Assistant Professor in the Life Sciences <br> Harvey Mudd College <br>**
 
 I am an applied mathematician working in complex and nonlinear systems. I study a variety of social and biological systems with mathematical models. My goal is to create and communicate mathematics in a way that is exciting, relevant, and inclusive.
+
+[CV](cv/hzb_cv.pdf)  |  [Email](mailto:hzinnbrooks@g.hmc.edu)
 
 **Upcoming Meetings**
 
