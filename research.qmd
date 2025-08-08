@@ -39,6 +39,8 @@ We study the interplay of dynamics and structure in social and biological system
 
 **Christina Catlett** (Scripps ’22): Multilayer network models of pluralistic ignorance
 
+**Ruixiao Wang** (UCLA '22): Dynamics of the glass ceiling on networks (co-mentor Mason Porter)
+
 **Georgia Pope** (HMC ’21): Stability analysis of a mathematical model of hormonal contraception
 
 **Siqiao Mu** (Caltech): Epidemic dynamics on networks (co-mentors Mason Porter and Franca Hoffmann)
